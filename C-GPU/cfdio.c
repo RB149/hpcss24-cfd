@@ -17,7 +17,6 @@ void writedatafiles( int m, int n, double psi[m+2][n+2], int scale)
 
   double modvsq, hue;
   int i,j, ix, iy;
-  int nvel, nrgb;
 
   printf("\n\nWriting data files ...\n");
 
