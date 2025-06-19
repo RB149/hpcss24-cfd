@@ -8,9 +8,10 @@
 #SBATCH --ntasks=4
 #SBATCH --tasks-per-node=4
 #SBATCH --cpus-per-task=1
-#SBATCH --account=tc063
 #SBATCH --partition=standard
-#SBATCH --qos=short
+#SBATCH --qos=reservation
+#SBATCH --reservation=tc069_1525341
+
 
 export SRUN_CPUS_PER_TASK=$SLURM_CPUS_PER_TASK
 
