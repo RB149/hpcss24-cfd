@@ -1,0 +1,120 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+Scale Factor = 20, iterations = 100000
+Irrotational flow
+Running CFD on 640 x 640 grid using 32 process(es) 
+
+Starting main loop...
+
+Completed iteration 1000
+Completed iteration 2000
+Completed iteration 3000
+Completed iteration 4000
+Completed iteration 5000
+Completed iteration 6000
+Completed iteration 7000
+Completed iteration 8000
+Completed iteration 9000
+Completed iteration 10000
+Completed iteration 11000
+Completed iteration 12000
+Completed iteration 13000
+Completed iteration 14000
+Completed iteration 15000
+Completed iteration 16000
+Completed iteration 17000
+Completed iteration 18000
+Completed iteration 19000
+Completed iteration 20000
+Completed iteration 21000
+Completed iteration 22000
+Completed iteration 23000
+Completed iteration 24000
+Completed iteration 25000
+Completed iteration 26000
+Completed iteration 27000
+Completed iteration 28000
+Completed iteration 29000
+Completed iteration 30000
+Completed iteration 31000
+Completed iteration 32000
+Completed iteration 33000
+Completed iteration 34000
+Completed iteration 35000
+Completed iteration 36000
+Completed iteration 37000
+Completed iteration 38000
+Completed iteration 39000
+Completed iteration 40000
+Completed iteration 41000
+Completed iteration 42000
+Completed iteration 43000
+Completed iteration 44000
+Completed iteration 45000
+Completed iteration 46000
+Completed iteration 47000
+Completed iteration 48000
+Completed iteration 49000
+Completed iteration 50000
+Completed iteration 51000
+Completed iteration 52000
+Completed iteration 53000
+Completed iteration 54000
+Completed iteration 55000
+Completed iteration 56000
+Completed iteration 57000
+Completed iteration 58000
+Completed iteration 59000
+Completed iteration 60000
+Completed iteration 61000
+Completed iteration 62000
+Completed iteration 63000
+Completed iteration 64000
+Completed iteration 65000
+Completed iteration 66000
+Completed iteration 67000
+Completed iteration 68000
+Completed iteration 69000
+Completed iteration 70000
+Completed iteration 71000
+Completed iteration 72000
+Completed iteration 73000
+Completed iteration 74000
+Completed iteration 75000
+Completed iteration 76000
+Completed iteration 77000
+Completed iteration 78000
+Completed iteration 79000
+Completed iteration 80000
+Completed iteration 81000
+Completed iteration 82000
+Completed iteration 83000
+Completed iteration 84000
+Completed iteration 85000
+Completed iteration 86000
+Completed iteration 87000
+Completed iteration 88000
+Completed iteration 89000
+Completed iteration 90000
+Completed iteration 91000
+Completed iteration 92000
+Completed iteration 93000
+Completed iteration 94000
+Completed iteration 95000
+Completed iteration 96000
+Completed iteration 97000
+Completed iteration 98000
+Completed iteration 99000
+Completed iteration 100000
+
+... finished
+After 100000 iterations, the error is 2.29932e-05
+Time for 100000 iterations was 3.36893 seconds
+Each iteration took 3.36893e-05 seconds
+
+
+Writing data files ...
+... done!
+
+Written gnuplot script 'cfd.plt'
+... finished

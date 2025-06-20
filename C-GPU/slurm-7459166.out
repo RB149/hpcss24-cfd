@@ -1,0 +1,3 @@
+slurmstepd: error: execve(): /mnt/lustre/e1000/home/tc069/tc069/tc069reb/hpcss24-cfd/C-GPU/./cfd: No such file or directory
+srun: error: r2i5n5: task 0: Exited with exit code 2
+srun: launch/slurm: _step_signal: Terminating StepId=7459166.0

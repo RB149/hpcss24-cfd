@@ -1,0 +1,23 @@
+Scale Factor = 100, iterations = 5000
+Irrotational flow
+Running CFD on 3200 x 3200 grid using GPU offload
+
+Starting main loop...
+
+Completed iteration 1000
+Completed iteration 2000
+Completed iteration 3000
+Completed iteration 4000
+Completed iteration 5000
+
+... finished
+After 5000 iterations, the error is 0.000375131
+Time for 5000 iterations was 3.28411 seconds
+Each iteration took 0.000656821 seconds
+
+
+Writing data files ...
+... done!
+
+Written gnuplot script 'cfd.plt'
+... finished
