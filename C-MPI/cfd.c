@@ -327,9 +327,9 @@ int main(int argc, char **argv)
 
   //output results
 
-  writedatafiles(lm,n,psi,scalefactor,comm);
+//  writedatafiles(lm,n,psi,scalefactor,comm);
 
-  if (rank == 0) writeplotfile(m,n,scalefactor);
+//  if (rank == 0) writeplotfile(m,n,scalefactor);
 
   MPI_Finalize();
 

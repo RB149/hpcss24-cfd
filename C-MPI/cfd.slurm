@@ -5,8 +5,8 @@
 #SBATCH --time=0:10:0
 #SBATCH --exclusive
 #SBATCH --nodes=1
-#SBATCH --ntasks=4
-#SBATCH --tasks-per-node=4
+#SBATCH --ntasks=32
+#SBATCH --tasks-per-node=32
 #SBATCH --cpus-per-task=1
 #SBATCH --partition=standard
 #SBATCH --qos=reservation
@@ -30,5 +30,5 @@ export OMP_NUM_THREADS=1
 # Launch the parallel job
 #   Using 4 MPI processes on 1 node
 #   srun picks up the distribution from the sbatch options
-srun --cpu-bind=cores ./cfd 4 5000
+srun --cpu-bind=cores ./cfd 100 5000
 

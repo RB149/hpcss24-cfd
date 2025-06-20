@@ -271,9 +271,9 @@ int main(int argc, char **argv)
 
   //output results
 
-  writedatafiles(m,n,psi,scalefactor);
+//  writedatafiles(m,n,psi,scalefactor);
 
-  writeplotfile(m,n,scalefactor);
+//  writeplotfile(m,n,scalefactor);
 
   printf("... finished\n");
 
